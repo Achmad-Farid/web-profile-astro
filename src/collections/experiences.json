@@ -1,0 +1,23 @@
+[
+  {
+    "dates": "February 2024 · June 2024",
+    "role": "MSIB IBM Skillsbuild for AI & Cybersecurity",
+    "company": "Skilvul",
+    "description": "Completed the MSIB IBM Skillsbuild program focused on AI and Cybersecurity. Developed a strong understanding of Artificial Intelligence concepts, machine learning models, and cybersecurity practices. This experience included hands-on projects that enhanced my technical skills, enabling me to apply AI-driven solutions while maintaining a secure development environment.",
+    "logo": "https://bykevin.work/storage/logo/skilvul-logo.png"
+  },
+  {
+    "dates": "August 2023 · December 2023",
+    "role": "MSIB Full-stack Web Developer",
+    "company": "Skilvul",
+    "description": "Participated in the MSIB Full-stack Web Developer program, where I gained hands-on experience in building web applications using modern technologies. This role involved working on both front-end and back-end development, enhancing my skills in JavaScript, HTML, CSS, and server-side frameworks, while collaborating on real-world projects to deliver functional and scalable web solutions.",
+    "logo": "https://bykevin.work/storage/logo/skilvul-logo.png"
+  },
+  {
+    "dates": "November 2021 · Present",
+    "role": "Teknik Informatika",
+    "company": "Universitas Yudharta Pasuruan",
+    "description": "Currently pursuing a degree in Informatics Engineering, focusing on software development, web technologies, and emerging areas like Artificial Intelligence and Machine Learning. This experience has honed my skills in problem-solving, programming, and implementing tech solutions to real-world challenges.",
+    "logo": "/assets/images/experiences/Universitas Yudharta Pasuruan.png"
+  }
+]
