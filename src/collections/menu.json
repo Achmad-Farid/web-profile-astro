@@ -4,12 +4,12 @@
     "url": "/"
   },
   {
-    "name": "Certification",
-    "url": "/posts"
-  },
-  {
     "name": "Projects",
     "url": "/projects"
+  },
+  {
+    "name": "Certification",
+    "url": "/posts"
   },
   {
     "name": "About",

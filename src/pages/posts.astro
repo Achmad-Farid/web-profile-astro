@@ -1,18 +1,33 @@
 ---
+import projects from "../collections/projects.json";
 import PageHeading from "../components/page-heading.astro";
-import PostsLoop from "../components/posts-loop.astro";
+import Project from "../components/project.astro";
 import Layout from "../layouts/main.astro";
 ---
 
-<Layout title="My Writing">
+<Layout title="My Projects">
   <section class="relative z-20 max-w-2xl mx-auto my-12 px-7 lg:px-0">
     <PageHeading
-      title="My Certification"
-      description="I am pleased to share the certifications I have obtained throughout my professional journey. These certifications reflect my commitment to continuous learning and development in my field. Below is a list of the certifications I've received:"
-    />
+    title="My Certification"
+    description="I am pleased to share the certifications I have obtained throughout my professional journey. These certifications reflect my commitment to continuous learning and development in my field. Below is a list of the certifications I've received:"
+  />
+ 
 
-    <div class="z-50 flex flex-col items-stretch w-full gap-5 my-8">
-      <PostsLoop count="999999999" />
+    <div
+      class="z-50 grid items-stretch w-full grid-cols-1 my-8 gap-7 sm:gap-5 sm:grid-cols-2"
+    >
+      {
+        projects.map((project) => {
+          return (
+            <Project
+              name={project.name}
+              description={project.description}
+              image={project.image}
+              url={project.url}
+            />
+          )
+        })
+      }
     </div>
   </section>
 </Layout>

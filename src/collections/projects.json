@@ -1,20 +1,50 @@
 [
-	{
-		"name": "Email.ML",
-		"description": "Minimalist temporary Email.",
-		"image": "/assets/images/projects/email.ml.png",
-		"url": "https://email.ml"
-	},
-	{
-		"name": "DNS.Surf",
-		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
-		"image": "/assets/images/projects/dns.surf.png",
-		"url": "https://dns.surf"
-	},
-	{
-		"name": "HTML.ZONE",
-		"description": "Web Toolbox.",
-		"image": "/assets/images/projects/html.zone.png",
-		"url": "https://html.zone"
-	}
+  {
+    "name": "React Native",
+    "description": "This certification validates my skills in developing cross-platform mobile applications using React Native.",
+    "image": "/assets/images/serti/Completion Certificate for React Native_page-0001.jpg",
+    "url": "https://drive.google.com/file/d/1vRLGSRpvpPEV8BtIo23j-rx7m61kbApF/view?usp=sharing"
+  },
+  {
+    "name": "MSIB Batch 6",
+    "description": "Learning about AI and Cybersecurity",
+    "image": "/assets/images/serti/Achmad Farid - Sertifikat Program - IBM Skillsbuild for AI & Cybersecurity_page-0001.jpg",
+    "url": "https://drive.google.com/file/d/1kSConZf-3NoxKCR9PITbCitEdTkNWpGm/view?usp=sharing"
+  },
+  {
+    "name": "MSIB Batch 5",
+    "description": "Learning about fullstack web developer",
+    "image": "/assets/images/serti/Sertifikat MSIB FS - ACHMAD FARID_page-0001.jpg",
+    "url": "https://drive.google.com/file/d/1Lf6U14037boOJ5KWloKCcCSz7U2Sqm7O/view?usp=sharing"
+  },
+  {
+    "name": "Machine Learning for Data Science Projects",
+    "description": "I learned valuable techniques and tools for applying machine learning models to real-world data",
+    "image": "https://i.imgur.com/yCKUqi4.jpeg",
+    "url": "https://drive.google.com/file/d/1wVlrH5KA_akac2jP6ORlzCpfQEFJrQbD/view?usp=sharing"
+  },
+  {
+    "name": "Basic Principles of Design",
+    "description": "I learned key design concepts, including balance, contrast, hierarchy, and alignment. This course helped me improve my ability to create visually appealing and effective designs.",
+    "image": "/assets/images/serti/Basic_Principles_of_Design_Badge (1).jpg",
+    "url": "https://drive.google.com/file/d/1JpT49oXtLQ_usFEc6ERZzQ4AX5UtTBGa/view?usp=sharing"
+  },
+  {
+    "name": "Building Trustworthy AI Enterprise Solutions",
+    "description": "I learned how to develop AI systems that are ethical, reliable, and aligned with enterprise needs.",
+    "image": "/assets/images/serti/Basic_Principles_of_Design_Badge (2).jpg",
+    "url": "https://drive.google.com/file/d/1Hzjv6nY8DAqXlxz7GvdxS6jBUOKteTQ_/view?usp=sharing"
+  },
+  {
+    "name": "Enterprise Data Science in Practice",
+    "description": "I gained practical skills in applying data science techniques to solve business challenges.",
+    "image": "/assets/images/serti/Basic_Principles_of_Design_Badge (3).jpg",
+    "url": "https://drive.google.com/file/d/1YQJtfvChnhvsfwllmhhg3OLC_-p-6c11/view?usp=sharing"
+  },
+  {
+    "name": "Enterprise Data Science in Practice",
+    "description": "I gained practical skills in applying data science techniques to solve business challenges.",
+    "image": "/assets/images/serti/Basic_Principles_of_Design_Badge (3).jpg",
+    "url": "https://drive.google.com/file/d/1YQJtfvChnhvsfwllmhhg3OLC_-p-6c11/view?usp=sharing"
+  }
 ]
